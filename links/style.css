@@ -1,0 +1,18 @@
+body{
+    flex-direction: column;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    flex: 1 auto;
+    justify-content: center;
+    margin: 0;
+}
+
+.link {
+    margin-bottom: 1rem;
+}
+
+
+  
